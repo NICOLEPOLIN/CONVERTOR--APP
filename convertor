@@ -1,0 +1,5 @@
+function maim() {
+var amount=parsefloat(readline(),10);
+var rate=parsefloat(readline(),10);
+console.log(rate*amount);
+}
